@@ -1,0 +1,54 @@
+{
+	"name": "telethon ze",
+	"description": "اول تنصيب بوت تليثون عربي بكود بايروجرام مقدم من سورس عفرتو!",
+	"logo": "https://telegra.ph/file/04b2f1f1c808dc49db35b.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"telethon"
+	],
+	"repository": "https://github.com/afrotoo66/tlethon3",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your APP ID from my.telegram.org",
+            "value": ""
+        },
+        "USER_NAME": {
+            "description": "Your Name In Telegram",
+            "value": ""            
+        },
+        "SESSION": {
+            "description": "Your String Session Pyrogram V2",
+            "value": ""            
+	},
+        "BOT_USER": {
+            "description": "Your Bot User Without @",
+            "value": ""  
+	},
+        "VIA_USER": {
+            "description": "Put Your Bot User Without @ After user : ",
+            "value": "user : " 
+	},
+        "MENTION": {
+            "description": "Put Your ID On Telegram Or Your Groub ID Without -100",
+            "value": ""           		
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
