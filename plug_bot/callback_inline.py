@@ -1,4 +1,117 @@
-#https://t.me/Source_Ze
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b85decode(b'c%1E8T}&L;6`q;hg$1+x*ckBt#ExSY3-jauC_f5GThr8z(o|J5RRWlqV4Pi`!>(e|xPry76y+gRrC6zC#dd5jU@%@VKTGVFy!EMeu<Ds@)f$?IRDB^OYAQeVoO|yqvpdV;#cFw}CGOmN?z!JR=iD>roIC5kai)J6?78^0jpNR9GAHvM&dW=@SC9m+O|tPw6FhdWLvnaCqzrGSl<9R!PC~bNvPJ~bvwO0oY=KiU;m;{M<c#6W>jH&t;+y#EJnc*CWT%uPXGtzOTgsK!NqKUPlrOua0y$S&FXu@c<b0`6E|4}VMW-t`%RfLDPFGs#@_J(j<0)@A$6aT$(xx=g3N2_GO=z3bL@TnO6`Rnuq={ByLEB_P+nOfYW((RD6WX>k(Y9L9wwchjr-`=Rg0|xc&_oN`Q%``l(}K3^3DBOlpzVGFv}Y`6drW9MI_&P!zhl>Ji)Os+X;xZ%(ad+6Jw8Qkk2;hVzqj3OkCxQ7c$!<3*Zqpx@nfak@A18)`kEU(O0>APrOogAiE_qwTxoA_Xi{EoZSf&UAzkvS(s8o2L6wg;sPFpQ5~($QpRcvW%}4pN6MiR1p+)pQZB!3N?WYt^+aMoxH8yxWCmR~yt&<yk4gNAvB76SR&z{GB^P$_~+|^&tUG4ot&)mnsxvRJ4u7<_mcVasqx<h$By_`MYd0Etk^ezDJ*UyRChcMD2+7umy^m8x_Ya@EUHXssaJ)jNfeT+2>3nwYL8&G-(5f{y9A?=buq??Ru12EMi?j;<0H~jVJK{f=W0L+!fxU?~CRMf8O{bF^sn*xMDh*2QyUFs5MSgehvt+?MNtkzs3+O!r<P?Zv?DSAMQ5vpYm(&5;`V9(yiGgRDiGSLT5WBE!}Fad<&5yEo>E0-?uFl!FMQh)_TO35KJrG^PH0^r~UlT<aT2+s6@n*@>2N2vk57oI_PqTrx!AFLhFrYt&X6KIY&GIN25Hp(=BrIUIW3KN9xklv3}aJ3=BF5T#Xgc#7fn4=oRbp7B8w@N>#*JkR8?AkaUD5?<BX7pY#d5|*bT?q^zEIBf;U;2XnWwq~jJxFj94;0Vt26QIs%?=^L#5r^$6tGvDa9b7u-Q)pyB&z`cXCYp((qgt6{2q4fXRE2)%PnNS4xa9=Pr5u_`qjh4ba*_7bdUHI+iGLd7!hlj#FZ)ZL_Hvums9#MeTi^vyoe?;U5}AGLc>3t!Wa$zH%OpI7}Si6i0&q!_=yx)1JGqckiJEv7%>INE%d3FK(~m_HxtES<P<OwIHd^#29}aBhS&rs^VITin93kK8gSjj76XY;jGO|dhdA2^_|uYPjFMb7(_{)|M}RW~5!bNV2n+iOR%7IpCm29Q*%{LCe-1>jsA`Z?V1@9wV@T9}M&td#L{9%j>R3&ztOxn9{upEy(FW=hX*VGuLrzSj12wD%E!?+&zfZeqp+~?ZA<*Bl0`eWayjFh9q!!))U=Lb&ClTF34MPy?Lww8348}35Mnt|o?K<v|w)NjyeWn_Mt%pI}5a!NgF_x4MBpg%E!V)1iIfM^mJxfEte@g_f3!nj(#~gCUB#0Hm36=0T&1UtY!3o*EpS(*n#q0g`MlC~AerXaGQTm=}Y&DL$XydD}@CRt&atw%JkT57#h{@DK7uLH)WE|3i5Q0#URIG%Ph5{(1$h#N@?g-LHL4#{(dK?Vk&ZG-=?ML0P3$;yld90XY*9Q{T$8Z}82pJe&mvM>{!Ki}OF<nP2k8Jqrk5YatVe$3q!(kUGda=4B8)B_R%RXd9DmiF^7Djs$CX)Jtl%<=zOps?N_!LCEa(V#*A+#ALKCGFh*ASXedJve2h{9z1A93UWFbWeaxUWP|TkJAFq0=Ks!3v_sFbxD_xHOSLfW~HOMwB1B$6tHpO)69`rXI){<t)b_^#%>1RPGS^x}k1_T7Q)2H$d$h!mJBt%eKIym_Ygr#&Lr-0N8_M6Ve@{I^Zo2OoxLBa#tV<brH|-|AQ3GpIrKtIDhRE5if<{9C|0Y(P899;}NGvJlG9hRhW5JG_BdkZa97939ch1%!1v6fB`@Z0YX#adg98ooL-tRRcRLfFxhb|ajS815SQY~V^DMw!L#4bd>ilFRZlkxrtb%K`0Iwh#h*g+D#vr@xexf$y!AtaFSg2OH+sXo@!7ANleu3);rFp{-q!1I08R&YnETK%VtbDt6i&cJKSx#CJRNmj@}0nKixwzyv#-ueKPuGulrz4l-FN0pm0AFBgF-Z;k$$YmjeQ{a1%91q#|=d>D#%Sy2hm3@0m|=Cg&oj*&HcNRd+02B;4Ho8EFCVq{oGw=>8$hE1L4@0!m&q-IlvRx;pQ*#d+e7p+&r^N_5a)|Y99G0qppVs(Y%^yt`<VWlvImxj%Zn}ZiD^>WY~nwW@wn```2Fd{i#IXuZqyWm`wBoYcKkNRH7eHcR~NNWTGEjd(jW368)h14D_!h6aCQIi+(7T=!aA{^aqoPet7LgKb%~2A~R`*lL>xg?FB!wlHjAs1V6g=f*)N;@UeKooixu?uC3$_OlFlUi9UfdN%Gdl+dm?CtM-9V`=wC(h-#KWG>g|O*U&4#r`Aj6eYTipju=&tZNqj$I};s$)k{Xtl$}fTCYxy{OU_QZVx63ml<tyqmqE&t^OLS9kk==rZ;%U<(l^RQrXB32nPRzQc+=8vmZq7_@)q+<lf(F3Wq9l3_<(!c3ID%f1zwI!H=>^}b0d1I^pwxn*8Xfog>Ro%sd%H+uQn=mlHyLhRnGr*!cvry&xveyGI7>aK(g{Q{_`PQH)UDZj~7YO4j4?+maSu-MHxrL!a+Zou<04gF65rhW<QUg#ZUI+BlDoK{B|6}5LCKYY!6l$^LLWZSF`yGT}kTs8?kCU{-newIVwNCVQ^HWCRMT4WRyu#zp=p-sfgHMn$#F<5FuHc4Q5D$V1v(TZamC}x9RW*8{VPAqjY$oE1E$=pdWXIWAA);c}Tkg2dYniX*$6`o!S+ojlW;Cj8=Tq=2t!b?EnC-)CtbisZW5tRzi@JH~ejFt*TGW=VH-N#ozwaEG}8jw_|ay9)a#OPW_Qf42BCFSLSto%W-F&uV;Pbdg|itn@#s!FZ?-4Zz0p3oA+%Fm%H;xnP~6Seb<W%Sq@;&1@^l;U%LDKx9_{^7Hk5LoP<<!_Xl<NUG;>tuxFzyf6-Qa)|m&<dyy;7%Kwflw&nj5n@8<vi9pT4niu&m4)Zn7+rK!H0e!a^b+&b=txal!SH<&FG3}@rk)pZA#6Dj~o6@f0f8bCv;|vNHrPh{rnwz4T4ecE*jm@nz<!r!aD>j&2)ScMu#-<dTz1WmvgFiK^RfuCd+3JfHw6@g6U$~+URcTVrP>)7;BF;;kmN+ZTWq5pp+#*Ita;lG<&v{#AzejmNt$`ti(Dv8h)E8_#&;OMxyT_G%C-D3+ev!lWE3WWQT&|wCYYxm_Hht*6tA-ks6VRac{JhSbg>0wO-f3T0pHCh;9psUdO&&!q^4OY39wOu1L>>o9$fG(d%iif&DC7jk1HR}UU-Z%0kKQ|f_BUrQzByZ5G0Rte0|M3Zi#ATES|Htry#4>2|5Z+DwzzVZuR_ir63*%c(zSB_Y_@pcEMM`BP{QXUV<qXSFM(tI2ZVP53j'))))
-# channel : https://t.me/Source_Ze
+from pyrogram import Client, filters,enums
+from pyrogram.types import (InlineQueryResultArticle, InputTextMessageContent,
+                            InlineKeyboardMarkup, InlineKeyboardButton)
+from config import *
+import asyncio
+reply_markup = InlineKeyboardMarkup(
+            [[
+             InlineKeyboardButton("عوده",callback_data="help"),
+             ]]
+             )
+txx1 = """
+⎈━━━⊶𐂡•𝗦𝗣𝗜𝗗𝗘𝗥•𐂡⊷━━━⎈
+⎊ تفعيل ، تعطيل الترحيب 
+⎊ قبول ، رفض
+⎊ كتم ، الغاء كتم 
+⎊ سبام + الكلمه + الرقم (سبام اسامه 22)
+⎊ ايدي + ايدي بالرد
+ ⌯︙ @EE_20
+"""
+txx2 = """
+⎈━━━⊶𐂡•𝗦𝗣𝗜𝗗𝗘𝗥•𐂡⊷━━━⎈
+⎊ حظر ، الغاء حظر
+⎊ مسح المحظورين
+⎊ كتم ، الغاء كتم 
+⎊ مسح المكتومين
+⎊ ايدي + ايدي بالرد
+⎊ مسح رسايله (بالرد)
+⎊ تدمير (لتحظر كل اعضاء المجموعه او القناه)
+⎊ مسح الروابط 
+⎊ مسح الصور 
+⎊ مسح + العدد
+⎊ اضف جهاتي
+ ⌯︙ @EE_20
+"""
+txx3 = """
+⎈━━━⊶𐂡•𝗦𝗣𝗜𝗗𝗘𝗥•𐂡⊷━━━⎈
+⎊ غ + اسم الاغنيه
+⎊ ف + اسم الفيديو 
+ ⌯︙ @EE_20
+"""
+txx4 = """
+⎈━━━⊶𐂡•𝗦𝗣𝗜𝗗𝗘𝗥•𐂡⊷━━━⎈
+⎊ اذاعه خاص (بالرد علي النص)
+⎊ اذاعه للمجموعات (بالرد علي النص)
+⎊ اذاعه للقنوات (بالرد علي النص)
+
+⎊ توجيه للخاص (بالرد علي الرساله)
+⎊ توجيه للمجموعات (بالرد علي الرساله)
+⎊ توجيه للقنوات (بالرد علي الرساله)
+ ⌯︙ @EE_20
+"""
+txx5 = """
+⎈━━━⊶𐂡•𝗦𝗣𝗜𝗗𝗘𝗥•𐂡⊷━━━⎈
+⎊ زواج ، طلاق -- زوجاتي -- مسح زوجاتي
+⎊ رفع ، تنزيل خول -- الخولات -- مسح الخولات 
+⎊ رفع ، تنزيل بنتي -- بناتي -- مسح بناتي
+⎊ رفع ، تنزيل شاذ -- الشواذ -- مسح الشواذ
+⎊ رفع ، تنزيل عرص -- المعرصين -- مسح المعرصين
+⎊ رفع ، تنزيل كلب -- الكلاب -- مسح الكلاب
+⎊ رفع ، تنزيل متوحد -- المتوحدين -- مسح المتوحدين
+⎊ رفع ، تنزيل حمار -- الحمير -- مسح الحمير
+⎊ رفع ، تنزيل بقلبي -- القلوب -- مسح القلوب 
+⎊ رفع ، تنزيل ابني -- اولادي -- مسح اولادي
+ ⌯︙ @EE_20
+"""
+txx6 = """
+⎈━━━⊶𐂡•𝗦𝗣𝗜𝗗𝗘𝗥•𐂡⊷━━━⎈
+⎊ تلجراف (بالرد علي صوره لرفعها علي تليجراف)
+⎊ وش يقول (بالرد علي صوت)
+⎊ تفعيل ، تعطيل الساعه 
+⎊ تغيير اسمي + الاسم (تغيير اسمي OSAMA)
+⎊ سورس
+ ⌯︙ @EE_20
+"""
+
+
+
+@bot.on_callback_query(filters.regex("^help1$"))
+async def help1(client, callback_query):
+  await callback_query.edit_message_text(txx1,reply_markup=reply_markup)
+@bot.on_callback_query(filters.regex("^help2$"))
+async def help2(client, callback_query):
+  await callback_query.edit_message_text(txx2,reply_markup=reply_markup)
+@bot.on_callback_query(filters.regex("^help3$"))
+async def help3(client, callback_query):
+  await callback_query.edit_message_text(txx3,reply_markup=reply_markup)
+@bot.on_callback_query(filters.regex("^help4$"))
+async def help4(client, callback_query):
+  await callback_query.edit_message_text(txx4,reply_markup=reply_markup)
+@bot.on_callback_query(filters.regex("^help5$"))
+async def help5(client, callback_query):
+  await callback_query.edit_message_text(txx5,reply_markup=reply_markup)
+@bot.on_callback_query(filters.regex("^help6$"))
+async def help6(client, callback_query):
+  await callback_query.edit_message_text(txx6,reply_markup=reply_markup)
+@bot.on_callback_query(filters.regex("^help$"))
+async def back(client, callback_query):
+  await callback_query.edit_message_text("⎊ اهلا بك في اوامر تيلثون سبايدر\n① اوامر الخاص\n② اوامر القنوات والمجموعات \n③ اوامر اليوتيوب \n④ اوامر الاذاعه\n⑤ اوامر التسليه \n⑥ اوامر اضافيه",reply_markup = InlineKeyboardMarkup(
+            [[
+             InlineKeyboardButton("①",callback_data="help1"),
+             InlineKeyboardButton("②",callback_data="help2"),
+             ],
+             [
+             InlineKeyboardButton("③",callback_data="help3"),
+             InlineKeyboardButton("④",callback_data="help4"),
+             ],
+             [
+             InlineKeyboardButton("⑤",callback_data="help5"),
+             InlineKeyboardButton("⑥",callback_data="help6"),
+             ],
+             [
+             InlineKeyboardButton("「 𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗣𝗜𝗗𝗘𝗥 」",url="https://t.me/EE_20"),
+             ],
+             [
+             InlineKeyboardButton("「 𝗠𝗔𝗞𝗘𝗥 𝗦𝗣𝗜𝗗𝗘𝗥 」",url="https://t.me/TELE1SPIDER1bot"),
+             ]]
+             ))
