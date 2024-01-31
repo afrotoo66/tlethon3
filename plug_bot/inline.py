@@ -1,4 +1,43 @@
-#https://t.me/Source_Ze
-import marshal,zlib,base64
-exec(marshal.loads(zlib.decompress(base64.b85decode(b'c$}qGU2M}<6u#Gvoiu5Zwj>P&3ZVnKut9;1ziBXS)g&0B(#E7snYt*AFKLRMWY@MJ8<Sd~>4x^egha&yVq&UV+A`=^3+3mDr#-C|m2f<ysa+q&TehGv@v_}(J8fvf6Ib%_`ObIGxj*Ol_zzGrIO|<FLqtCifB;1x!7!AVFe9;H7E&7{+9WQ_Nqm@>>|wj)2s;crD^^`$49zAw!%pPtY5-+}0f^~ZQEnHw5ol_~x4@qQBNiL>WNab(BdUg2oo^KrD5>c7!wFGASk^g|R3$lN)0gj0iisrpKt(w7A(B;5c^fN<n27Yi{$yHJK0?QogGiR6anzbhDl~}CbUA=B9jPc54o2}2HNDjOj;biBWC-eTW1Ct-cJY}um^($DugTM^jjf9@C1-Jw=On$x338MJ0FtXzV3AbVg(E|O8D&S9GP_OSD%yF$zG#oLC5%I;s_5YqTovurg8Mm<Jc75PM~zTh(OxGkt7!KL{*o1JB}}~#7+t==z!IiGSW(Kv7fRwQ<~Zys7H7#&><hjtm8u1O)j|mcgvR5{=;{%!7*kj?8Z54Gl9cL~Wc71QKbz$^lBW#V3BKj7ut#BNZJSCrHg|Sh=Q@#?-b#}1jzvYWBN{sr5u!@e;wMagn+0!}@HGqGG~w$OoHXHf3*Iu}4h!Bk;Z6(QG2t!?-ZkNF6JF@id1GH&)U_06uLd^-b0>0HQjmQ?qdKpX>KxOq6FXtQsP9yiwERX(i?UflEr(Jnj-f~xkz=tc7S;7M$oVXptc_}8#B<09LW=vkHmFT%SGCJD(E03=Kw)%9O{Y^>QT-&s;um3VVTizC^&gUsx$aBBxr;ySp<{0F&Zn~j-^>nVf9;(;*Ec)x^X$M_@Rx2P+h2apHs=QKn!Xn=IgMCn$Ae2(`;qK)++rt|vh;4KK^qPlc6zkYTrbfl4Ws3Eqs;F#J%b^Kij!`ZEj_4Rqt}${vt~?|%^1t|Xp_YNx5`$@l6xMq*xS#t+5}O1a;HfKtO<9XnJ`Q;eTvdsi~QZn{5Fff&{MX%pUCCW9Tt~Z%vA72Ql$n+Q9Q>##Oa)pP)Kj~CunbuNM>V>#LUi&sju!5kQ~E_w30|A^=gdLVkROPJ^B&-$U}^7$3~-<b!RLZ>qHSHA)ye59fZZSC+K`MDIY}`^VC8+2K|M^%wI@#!szpn&*>inuOy^QKd)dgs53$wuc0nf&}j01MEnW<?FRG9n&;hXzh8eXKI7i|u!5Gi+dSUK)xgvAqLWOmbH@EvzKSE$J!JY+)4Nmeb<DV9d6pq2hhf@3)pmHs9XCw*X1}|pzy^HY?)URsfGhC8**NWNoUdM|)o*&ZVNad`{!bhQmT9ib^T5AJTeV$l3_bQb+@3t^taaw=fzO|B0It;q;CAs(fScq0rsAnwNABQ6tGBfQ-m8VJ0o%Pgp6DU3?nq~FDvqNPrWc59RM57ody2$nC6h+-Vj4<QL~?#O5!dZeIg^YfQaam_Qgm-B87a+=&S4Zs$Bcwr1_j!~aT5_w9dAl0K^4(n{3?O8F64bg<XH&e?_lFJ*!YBja33rHD(8XkH{c-$XSfH@Hw}Gf+RuF4-~L_u)Jxm%`*+-jyZ&M}K)%2NX1Af?S4gn`0iGuy>i'))))
-# channel : https://t.me/Source_Ze
+from pyrogram import Client, filters,enums
+from pyrogram.types import (InlineQueryResultArticle, InputTextMessageContent,
+                            InlineKeyboardMarkup, InlineKeyboardButton)
+from config import *
+import asyncio
+
+
+@bot.on_inline_query(filters.regex("^الاوامر$") )
+async def answer(client, inline_query):
+    reply_markup = InlineKeyboardMarkup(
+            [[
+             InlineKeyboardButton("①",callback_data="help1"),
+             InlineKeyboardButton("②",callback_data="help2"),
+             ],
+             [
+             InlineKeyboardButton("③",callback_data="help3"),
+             InlineKeyboardButton("④",callback_data="help4"),
+             ],
+             [
+             InlineKeyboardButton("⑤",callback_data="help5"),
+             InlineKeyboardButton("⑥",callback_data="help6"),
+             ],
+             [
+             InlineKeyboardButton("「 𝗦𝗢𝗨𝗥𝗖𝗘 𝗦𝗣𝗜𝗗𝗘𝗥 」",url="https://t.me/EE_20"),
+             ],
+             [
+             InlineKeyboardButton("「 𝗠𝗔𝗞𝗘𝗥 𝗦𝗣𝗜𝗗𝗘𝗥 」",url="https://t.me/TELE1SPIDER1bot"),
+             ]]
+             )
+    await inline_query.answer(
+        results=[
+            InlineQueryResultArticle(
+                title="اوامر البوت",
+                input_message_content=InputTextMessageContent(
+                    "⎊ اهلا بك في اوامر تيلثون سبايدر\n① اوامر الخاص\n② اوامر القنوات والمجموعات \n③ اوامر اليوتيوب \n④ اوامر الاذاعه\n⑤ اوامر التسليه \n⑥ اوامر اضافيه"
+                ),
+                url="https://t.me/EE_20",
+                description="SOURCE SPIDER",
+                reply_markup=reply_markup
+            ),
+        ],
+        cache_time=1
+    )
