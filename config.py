@@ -3,9 +3,9 @@ from pyrogram import Client,filters,enums
 import redis
 
 r = redis.Redis(
-  host='redis-18917.c299.asia-northeast1-1.gce.cloud.redislabs.com:18917',
+  host='redis-10945.c299.asia-northeast1-1.gce.cloud.redislabs.com:10945',
   port=17811,
-  password='clWxuGmyTnMV8Adcf4MTQzuKyFxjRT80')
+  password='lxClI8OYignmRY5FrBDPe2m99C5x8AVV')
 
 sudo_id = 5904216848
 bot_user = Mody.BOT_USER
