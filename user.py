@@ -9,7 +9,7 @@ async def main():
   await bot.start()
   try :
     await app.join_chat("UI_VM")
-    await app.join_chat("CB_LQ")
+    await app.join_chat("T_Y_E_X")
   except :
     pass
   await name()
